@@ -28,7 +28,7 @@ Audio (16 kHz WAV)     Visual activity signal             │
    │ faster-whisper       (frame differencing)            │
    ▼                      │                               │
 Transcript + timestamps   │                               │
-   │ LLM (map-reduce)     │                               │
+   │ LLM (long-context)   │                               │
    ▼                      │                               │
 Summary story             │                               │
    │                      │                               │
@@ -46,10 +46,10 @@ Movie recap (< 10 min)            Summary ──► BLEU / ROUGE vs reference
 
 | Step | Module | What happens |
 |---|---|---|
-| 1. Input | `src/download.py` | `yt-dlp` downloads the film at ≤480p (enough for analysis, fast to process). |
+| 1. Input | `src/download.py` | Accepts a YouTube URL (downloaded with `yt-dlp` at ≤480p) or a local file; YouTube's AV1 video is converted to H.264 so OpenCV can read it. |
 | 2. Audio + video | `src/media.py` | `ffmpeg` extracts mono 16 kHz audio; OpenCV reads video properties. |
 | 3. Speech-to-text | `src/transcribe.py` | `faster-whisper` with VAD produces segments with start/end timestamps. |
-| 4. Summary story | `src/summarize.py` | Map-reduce summarization: each transcript chunk is summarized, then the partial summaries are merged into one chronological story (Gemini API, or local BART). |
+| 4. Summary story | `src/summarize.py` | Gemini reads the whole transcript in one long-context call and writes an 8–12 sentence chronological story. For inputs too long for one call, and for the local BART option, map-reduce is used: each chunk is summarized, then the partial summaries are merged. |
 | 5. Peak scoring | `src/peaks.py` | The transcript is grouped into ~30 s windows. Each window gets a **text** score (cosine similarity between its dialogue and the summary sentences, using sentence-transformer embeddings), an **audio** score (95th-percentile RMS energy) and a **visual** score (mean frame difference from OpenCV). Scores are min-max normalised and fused: `0.6·text + 0.2·audio + 0.2·visual`. |
 | 6. Peak selection + time index | `src/peaks.py` | **Coverage first**: each summary sentence is mapped to its best-matching window, so every part of the story appears in the recap. **Then fill**: the highest fused-score windows are added until the 9.5-minute budget is reached. Selected windows are ordered chronologically. |
 | 7–8. Extraction + recap | `src/recap.py` | OpenCV seeks to each timestamp and writes the frames of the segment; since OpenCV has no audio, the matching audio is cut from the WAV and muxed with ffmpeg; all clips are concatenated into `movie_recap.mp4`. |
