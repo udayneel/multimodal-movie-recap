@@ -1,0 +1,902 @@
+[
+  {
+    "start": 1.74,
+    "end": 140.06,
+    "text": "How to make the day the time changes the first day of summer what well it's eight o'clock, and it's still light",
+    "id": 0,
+    "text_score": 0.0,
+    "audio_score": 0.742,
+    "visual_score": 0.087,
+    "score": 0.166
+  },
+  {
+    "start": 140.78,
+    "end": 173.71,
+    "text": "A lot of good the extra daylight does us now. We've still got a three-hour drive back We're not going to be home until after midnight. Well, if it really bugs you Johnny, you wouldn't do it You think I want to blow Sunday on a scene like this, you know I figure we're either going to have to move mother out here or move the grave into Pittsburgh. She can't make a trip like this Oh Sorry that candy left. No, look at this thing. We still remember. I don't you know I don't even remember what the man looks like Johnny. It takes you five minutes",
+    "id": 1,
+    "text_score": 0.457,
+    "audio_score": 0.618,
+    "visual_score": 0.112,
+    "score": 0.42
+  },
+  {
+    "start": 173.83,
+    "end": 214.5,
+    "text": "Yeah, five minutes to put the wreath on the grave in six hours to drive back and forth Mother wants to remember so we trot 200 miles into the country and she stays at home. Well, we're here John. All right We're coming back on the air after an interruption due to technical problems Wrong with the radio. Mr. Visitation. Which row is it in?",
+    "id": 2,
+    "text_score": 0.318,
+    "audio_score": 0.553,
+    "visual_score": 0.38,
+    "score": 0.378
+  },
+  {
+    "start": 237.14,
+    "end": 272.65,
+    "text": "You've gotten up earlier. Oh look, I already lost an hour sleep on the time chain. I think you complain just to hear yourself talk There it is. I wonder what happened to the one from last year Each year we spend good money on these things. We come out here and the one from last year is gone",
+    "id": 3,
+    "text_score": 0.024,
+    "audio_score": 0.33,
+    "visual_score": 0.065,
+    "score": 0.093
+  },
+  {
+    "start": 273.17,
+    "end": 326.69,
+    "text": "Well, the flowers die and the caretaker or somebody takes them away Yeah, a little spit and polish you can clean this up Sell it next year. What are how many times we bought the same one? Hey, come on Barb church was this morning, huh? Hey, I mean prayings for church, huh?",
+    "id": 4,
+    "text_score": 0.127,
+    "audio_score": 0.635,
+    "visual_score": 0.219,
+    "score": 0.247
+  },
+  {
+    "start": 328.93,
+    "end": 359.21,
+    "text": "I haven't seen you in church lately. Well Not much sense in my going to church Do you remember one time when we were small we were out here? It was from right over there I jumped out at you from behind the tree and grandpa got all excited and he shook his fist at me and he said boy You'll be damned to hell Remember that right over there Well, you used to really be scared here Johnny You're still afraid",
+    "id": 5,
+    "text_score": 0.301,
+    "audio_score": 0.51,
+    "visual_score": 0.295,
+    "score": 0.341
+  },
+  {
+    "start": 359.21,
+    "end": 845.26,
+    "text": "Stop it now. I mean it They're coming to get you Barbara Stop it. You're ignorant. They're coming for you Barbara Stop it. You're acting like a child. They're coming for you Look, there comes one of them now He'll hear you here. He comes now. I'm getting out of here A lot more of them as soon as they find out about us. This pump on here is locked as they're key",
+    "id": 6,
+    "text_score": 0.165,
+    "audio_score": 0.613,
+    "visual_score": 0.583,
+    "score": 0.338
+  },
+  {
+    "start": 845.7,
+    "end": 906.14,
+    "text": "We can try to get out if we can get some gas as they're a key both you've tried this do you live here take some food?",
+    "id": 7,
+    "text_score": 0.282,
+    "audio_score": 0.214,
+    "visual_score": 0.486,
+    "score": 0.309
+  },
+  {
+    "start": 907.14,
+    "end": 983.49,
+    "text": "I'll see if I can find some food. Have you seen any more around here? I can take care of those two",
+    "id": 8,
+    "text_score": 0.14,
+    "audio_score": 0.308,
+    "visual_score": 0.331,
+    "score": 0.212
+  },
+  {
+    "start": 984.01,
+    "end": 1255.86,
+    "text": "I know you're afraid but we have some woods and boards something about a fire is something we can do this place up",
+    "id": 9,
+    "text_score": 0.239,
+    "audio_score": 0.41,
+    "visual_score": 0.425,
+    "score": 0.31
+  },
+  {
+    "start": 1255.86,
+    "end": 1287.38,
+    "text": "I know you're afraid, but we have to try to board the house up together Now I'm going to board up the windows and the doors. Do you understand? We'll be all right here We'll be all right here till someone comes to rescue us, but we'll have to work together You'll have to help me now. I want you to go in and get some wood so I can board the place up. Do you understand?",
+    "id": 10,
+    "text_score": 0.395,
+    "audio_score": 0.613,
+    "visual_score": 0.375,
+    "score": 0.435
+  },
+  {
+    "start": 1288.06,
+    "end": 1471.54,
+    "text": "Okay Okay, we'll be long for the statement back pounding their way in here",
+    "id": 11,
+    "text_score": 0.041,
+    "audio_score": 0.526,
+    "visual_score": 0.469,
+    "score": 0.224
+  },
+  {
+    "start": 1471.54,
+    "end": 1502.95,
+    "text": "They're afraid now. They're afraid of fire. I found that out. You know a place back down the road called beatman's Beatman's Diner",
+    "id": 12,
+    "text_score": 0.305,
+    "audio_score": 0.213,
+    "visual_score": 0.345,
+    "score": 0.295
+  },
+  {
+    "start": 1502.95,
+    "end": 1535.04,
+    "text": "Anyhow, that's where I found that truck. I have out there. There's a radio in the truck. I jumped in to listen to it But a big gasoline truck came screaming right across the road But there must have been 10 15 of those things chasing after it Grabbing and holding on I didn't see them at first. I could just see that the truck was moving in a funny way",
+    "id": 13,
+    "text_score": 0.581,
+    "audio_score": 0.536,
+    "visual_score": 0.293,
+    "score": 0.514
+  },
+  {
+    "start": 1536.04,
+    "end": 1569.13,
+    "text": "Those things were catching up to it Slammed on my brakes to keep him hitting it myself We went right through the guard rail. I guess the driver must have cut off the road Into that gas station by beatman's diner It went right through the billboard ripped over a gas pump and never stopped moving",
+    "id": 14,
+    "text_score": 0.365,
+    "audio_score": 0.771,
+    "visual_score": 0.293,
+    "score": 0.432
+  },
+  {
+    "start": 1569.41,
+    "end": 1600.26,
+    "text": "By now it's like a moving bonfire Didn't know the truck was going to explode or what still you're the man Screaming things just backing away from it. I looked back at the diner to see if If there was anyone there who could help me",
+    "id": 15,
+    "text_score": 0.507,
+    "audio_score": 0.222,
+    "visual_score": 0.163,
+    "score": 0.381
+  },
+  {
+    "start": 1600.62,
+    "end": 1632.43,
+    "text": "That's when I noticed that Entire place had been encircled Wasn't a sign of light left except by now. They were no more screams 50 or 60 of those things just standing there",
+    "id": 16,
+    "text_score": 0.398,
+    "audio_score": 0.025,
+    "visual_score": 0.135,
+    "score": 0.271
+  },
+  {
+    "start": 1632.83,
+    "end": 1666.86,
+    "text": "Staring at me. I started to drive. I just plowed right through them They didn't move they didn't run or just stood there staring at me Just wanted to crush them through the air like bugs We were riding in the cemetery",
+    "id": 17,
+    "text_score": 0.405,
+    "audio_score": 0.201,
+    "visual_score": 0.148,
+    "score": 0.313
+  },
+  {
+    "start": 1668.14,
+    "end": 1707.7,
+    "text": "Johnny and me Johnny we came to put a wreath on my father's grave Johnny and he said I have some candy Barbara, and we didn't have any and It's hot in here",
+    "id": 18,
+    "text_score": 0.711,
+    "audio_score": 0.238,
+    "visual_score": 0.116,
+    "score": 0.498
+  },
+  {
+    "start": 1707.7,
+    "end": 1741.33,
+    "text": "Hot and he said, oh, it's late. Why did we start so late? And I said Johnny if you'd gotten up earlier We wouldn't be late Johnny asked me if I were afraid and I said I'm not afraid Johnny And then this man started walking up the road",
+    "id": 19,
+    "text_score": 0.205,
+    "audio_score": 0.642,
+    "visual_score": 0.293,
+    "score": 0.31
+  },
+  {
+    "start": 1743.17,
+    "end": 1798.84,
+    "text": "He came slowly and Johnny kept teasing me and saying he's coming to get you Barbara And I laughed at him and said Johnny stop it And then Johnny ran away and I I went up to this man and I was going to apologize Why don't you just keep calm and I looked up And I said, okay, I think you just calmed down he came and he ran and he",
+    "id": 20,
+    "text_score": 0.359,
+    "audio_score": 0.725,
+    "visual_score": 0.432,
+    "score": 0.447
+  },
+  {
+    "start": 1799.2,
+    "end": 1831.27,
+    "text": "He fought this man I got so afraid I ran I ran and Johnny didn't come You have to wait for Johnny. You better go out and get him We have to go out and get Johnny. He's out there",
+    "id": 21,
+    "text_score": 0.431,
+    "audio_score": 0.532,
+    "visual_score": 0.478,
+    "score": 0.46
+  },
+  {
+    "start": 1831.59,
+    "end": 1915.34,
+    "text": "Please don't you hear me? We've got to go out and get him Because of the obvious threat to untold numbers of citizens and because of the crisis which is even now developing",
+    "id": 22,
+    "text_score": 0.143,
+    "audio_score": 0.571,
+    "visual_score": 0.43,
+    "score": 0.286
+  },
+  {
+    "start": 1915.62,
+    "end": 1950.9,
+    "text": "This radio station will remain on the air day and night This station and hundreds of other radio and TV stations throughout this part of the country are pooling their resources through an Emergency network hookup to keep you informed of all developments at this hour We repeat these are the facts as we know There is an epidemic of mass murder being committed by a virtual army of unidentified assassins The murders are taking place in villages cities rural homes and suburbs with no apparent pattern or reason for the slaying It seems to be a sudden general explosion of mass homicide. We have some descriptions of the assassins",
+    "id": 23,
+    "text_score": 0.565,
+    "audio_score": 0.269,
+    "visual_score": 0.149,
+    "score": 0.423
+  },
+  {
+    "start": 1951.38,
+    "end": 1985.85,
+    "text": "Eyewitnesses say they are ordinary looking people. Some say they appear to be in a kind of trance Others describe them as being Authentic way for us to say who or what to look for and guard yourself against mischievous monsters Reaction of law enforcement officials is one of complete bewilderment at this hour so far We have been unable to determine that any kind of organized investigation is yet underway",
+    "id": 24,
+    "text_score": 0.353,
+    "audio_score": 0.516,
+    "visual_score": 0.659,
+    "score": 0.447
+  },
+  {
+    "start": 1986.49,
+    "end": 2019.45,
+    "text": "Police, sheriff deputies and emergency ambulances are literally deathly reached with calls for help The scene can best be described as mayhem Mayors of Pittsburgh, Philadelphia and Miami along with the governors of several eastern and midwestern states Have indicated the national guard may be mobilized at any moment, but that has not happened as yet The only advice our reporters have been able to get from official sources Is for private citizens to stay in their homes behind locked doors Do not venture outside for any reason until the nature of this crisis has been determined and until we can advise",
+    "id": 25,
+    "text_score": 0.452,
+    "audio_score": 0.6,
+    "visual_score": 1.0,
+    "score": 0.591
+  },
+  {
+    "start": 2019.69,
+    "end": 2074.79,
+    "text": "What course of action to take Listening to radio and tv or any special instructions as this crisis develops further Thousands of office and factory workers are being urged to stay at their places of employment Not to make any attempt to get to their homes However, in spite of this urging and warning streets and highways are packed with frantic people trying to Or apparently to flee just anywhere To repeat the safest course of action at this time is simply to stay where you think of murder",
+    "id": 26,
+    "text_score": 0.393,
+    "audio_score": 0.577,
+    "visual_score": 0.824,
+    "score": 0.516
+  },
+  {
+    "start": 2074.79,
+    "end": 2108.58,
+    "text": "Which has seized the eastern third of this nation? The presidential cabinet will be joined by officials of the SBI this conference Says there will be an official announcement as soon as possible following that meeting. This is the latest dispatch just received in our newsroom Latest word also from national press services in washington dc now tells us that the emergency Presidential conference which we've just mentioned will include high-ranking scientists from the national aeronautics and space administration",
+    "id": 27,
+    "text_score": 0.214,
+    "audio_score": 0.386,
+    "visual_score": 0.517,
+    "score": 0.309
+  },
+  {
+    "start": 2113.94,
+    "end": 2147.72,
+    "text": "The FBI have joined their facilities in an emergency network to bring you this news as it develops We urge you to stay tuned to radio and tv and to stay indoors at all costs Late reports reaching this newsroom tell of frightened people seeking refuge in churches schools and government buildings Demanding shelter and protection from the wholesale murder, which apparently is engulfing much of the nation",
+    "id": 28,
+    "text_score": 0.635,
+    "audio_score": 0.311,
+    "visual_score": 0.355,
+    "score": 0.514
+  },
+  {
+    "start": 2155.45,
+    "end": 2255.16,
+    "text": "So far I found a gun and some bullets out there or in these",
+    "id": 29,
+    "text_score": 0.38,
+    "audio_score": 0.27,
+    "visual_score": 0.533,
+    "score": 0.389
+  },
+  {
+    "start": 2255.16,
+    "end": 2288.52,
+    "text": "He came clear we were facing some kind of national emergency When first reports began filtering in newsmen and law enforcement agencies Rob the opinion this place is boarded up pretty solid now We had to be all right here for a while We had the gun and bullets Food and the radio Sooner or later someone bound to come and get us out You to seek shelter in a building locked the doors and windows",
+    "id": 30,
+    "text_score": 0.468,
+    "audio_score": 0.294,
+    "visual_score": 0.128,
+    "score": 0.365
+  },
+  {
+    "start": 2289.0,
+    "end": 2331.05,
+    "text": "Hey, that's us. We're doing all right Look, I don't know if you're hearing me in the absence of any I'm going upstairs now If anything should try to break in here, I can hear it from up there. I'll be down to take care of it Everything is all right for now. I'll be back to reinforce the windows and doors later, but you'll be all right for now. Okay? Okay, civil defense officials in cumberland have told newsmen that murder victims show evidence of having been",
+    "id": 31,
+    "text_score": 0.387,
+    "audio_score": 0.465,
+    "visual_score": 0.152,
+    "score": 0.356
+  },
+  {
+    "start": 2331.69,
+    "end": 2373.85,
+    "text": "partially devoured Reports from witnesses to the effect that people who acted as though they were in a kind of trance",
+    "id": 32,
+    "text_score": 0.597,
+    "audio_score": 0.528,
+    "visual_score": 0.17,
+    "score": 0.498
+  },
+  {
+    "start": 2374.17,
+    "end": 2406.17,
+    "text": "Were killing and eating their victims prompted authorities to examine the bodies of some of the victims Medical authorities in cumberland have concluded that in all cases the killers Are eating the flesh of the people they murdered Repeating this latest bulletin just received moments ago from cumberland, maryland Civil defense authorities have told newsmen that murder victims show evidence of having been partially devoured by their murderers Medical examination of victims bodies shows conclusively that the killers are eating the flesh of the people they kill",
+    "id": 33,
+    "text_score": 0.606,
+    "audio_score": 0.168,
+    "visual_score": 0.181,
+    "score": 0.433
+  },
+  {
+    "start": 2406.41,
+    "end": 2439.37,
+    "text": "And so this incredible story becomes more ghastly with each report It's difficult to imagine such a thing actually happening But these other reports we have been receiving and passing on to you reports, which have been verified as completely as is possible in this confused situation It is happening and it would appear that no one is safe from this wave of Don't shoot. We're from town. City or radio",
+    "id": 34,
+    "text_score": 0.441,
+    "audio_score": 0.743,
+    "visual_score": 0.407,
+    "score": 0.494
+  },
+  {
+    "start": 2439.69,
+    "end": 2471.21,
+    "text": "County pencil bank at the butler county sheriff. It's very By their slayers is true. No further details available at this time. However, well, you guys been down there I couldn't use some help up here. That's the seller. It's the safest place You mean you didn't hear the racket we were making up here How are we supposed to know what was going on? There have been those things for all we do that girl was screaming Surely you must know what a girl's screaming sounds like those things don't make any noise Anybody would know somebody's been needed help. Look, it's kind of hard to hear what's going on from down there We thought we could hear screams, but",
+    "id": 35,
+    "text_score": 0.416,
+    "audio_score": 0.596,
+    "visual_score": 0.525,
+    "score": 0.474
+  },
+  {
+    "start": 2471.29,
+    "end": 2502.09,
+    "text": "We're all we knew that could have meant those things were in the house after it and you wouldn't come up and help Well, if there were more of the racket sounded like the place was being ripped apart How were we supposed to know what was going on now? Wait a minute You just got finished saying you couldn't hear from down there. Now you say it sounded like the place was being ripped apart It would be nice if you get your story straight, man. All right. Now you tell me I'm not going to take that kind of a chance when we got a safe place We look into a safe place and you're telling us we got to risk our lives just because somebody might need help, huh?",
+    "id": 36,
+    "text_score": 0.332,
+    "audio_score": 0.596,
+    "visual_score": 0.346,
+    "score": 0.388
+  },
+  {
+    "start": 2502.65,
+    "end": 2533.78,
+    "text": "Yeah, something like that. All right. Why don't we settle this, mister? We came up. Okay. We're here Now I suggest we all go back downstairs before any of those things find out we're in here. They can't get in here You got the whole place boarded up You're insane. The cellar is the safest place. I'm telling you they can't get in here and I'm telling you those things turned over our car We were damn lucky to get away at all. Now you tell me those those things can't get through this lousy pile of wood",
+    "id": 37,
+    "text_score": 0.467,
+    "audio_score": 0.538,
+    "visual_score": 0.284,
+    "score": 0.444
+  },
+  {
+    "start": 2534.98,
+    "end": 2569.96,
+    "text": "His wife and kids down on stairs Kids hurt Well, I still think we're better. You could strengthen everything up, mr. Cooper With all of us working we could fix this place up in no time. We have everything we need up here We could take all that stuff downstairs with us and you're really crazy. You know that you got a million windows up here All these windows you're gonna you're gonna make them strong enough to keep these things out, huh? I told you those things don't have any strength. I smashed three of them and pushed another one out the door Did you hear me when I told you they turned over our car? Oh, hell any good five men can do that",
+    "id": 38,
+    "text_score": 0.353,
+    "audio_score": 0.406,
+    "visual_score": 0.299,
+    "score": 0.353
+  },
+  {
+    "start": 2569.96,
+    "end": 2604.44,
+    "text": "That's my point only there's not going to be five or even ten There's gonna be 20 30 maybe a hundred of those things and as soon as they know we're here this place is going to be crawling with them Well, if they're that many they'll probably get us wherever we are book The cellar the cellar there's only one door right just one door. That's all we have to protect Follow that fix it so it locks and boards from the inside But up here all these windows right we never know where they were gonna head us next You got a point mr. Cooper But down in the cellar. There's no place to run to I mean if they did get in there'd be no back exit",
+    "id": 39,
+    "text_score": 0.594,
+    "audio_score": 0.572,
+    "visual_score": 0.349,
+    "score": 0.541
+  },
+  {
+    "start": 2604.52,
+    "end": 2634.84,
+    "text": "We'd be done for We can get out of here if we have to and we got windows to see what's going on outside But down there with no windows if a rescue party did come we wouldn't even know it But the cellar is the strongest place the cellar is a death trap. I don't know mr. Cooper I think he's right You know how many's out there? I don't know. Maybe six or seven. Look You two can do whatever you like I'm going back down to the cellar and you better decide",
+    "id": 40,
+    "text_score": 0.694,
+    "audio_score": 0.504,
+    "visual_score": 0.336,
+    "score": 0.584
+  },
+  {
+    "start": 2635.32,
+    "end": 2673.24,
+    "text": "Because i'm gonna board up that door and i'm not gonna unlock it again no matter what happens Now wait a minute mr. Cooper. No, I'm not gonna wait. I made my decision or you make yours now. Wait a minute Let's think about this. We can make it to the cellar if we have to And if we do decide to stay down there, we'll need some things from up here So let's at least consider this a lot You box yourself in the cellar and those things get in the house. You've had it at least up here. You have a fighting chance Yeah, it looks like about eight or ten out done now. That's more than that work",
+    "id": 41,
+    "text_score": 0.511,
+    "audio_score": 0.489,
+    "visual_score": 0.251,
+    "score": 0.455
+  },
+  {
+    "start": 2674.44,
+    "end": 2784.79,
+    "text": "There are a lot out back too. These are going to be at every window one door in this place",
+    "id": 42,
+    "text_score": 0.13,
+    "audio_score": 0.334,
+    "visual_score": 0.641,
+    "score": 0.273
+  },
+  {
+    "start": 2785.11,
+    "end": 2817.51,
+    "text": "We've got to get down into the cellar go down in that damn cellar get out of here And everything else is up here too because if I stay up here I'm fighting for everything up here in the radio and the food is part of what i'm fighting for Now if you're going down the cellar get the man's insane He's insane. We've we've got to have food down there. We've got a right. This is your house. We've got a right You're going down there with him Well, yes or no, this is your last chance. No beating around the bush",
+    "id": 43,
+    "text_score": 0.403,
+    "audio_score": 0.537,
+    "visual_score": 0.493,
+    "score": 0.448
+  },
+  {
+    "start": 2818.47,
+    "end": 2849.05,
+    "text": "Well, listen, I got a kid down there She she can't plus I couldn't bring her up here. She can't possibly take all the racket those those things smashing through the windows Well, you're her father If you're stupid enough to go die in that trap, that's your business. However, I am not stupid enough to follow you It is tough for the kid that her old man is so stupid Now you get the hell down in the cellar. You can be the boss down there. I'm boss up here You bastards",
+    "id": 44,
+    "text_score": 0.223,
+    "audio_score": 0.508,
+    "visual_score": 0.423,
+    "score": 0.32
+  },
+  {
+    "start": 2849.13,
+    "end": 2889.59,
+    "text": "You know, I want to open this door again. I mean it Mr. Cooper with your help we could with my help let him go man. This mine is made up. Just let him go Wait a minute. Judy come on out here, honey. We got her too, huh? Sorry, honey. Click together man. We can fix it up real good",
+    "id": 45,
+    "text_score": 0.35,
+    "audio_score": 0.585,
+    "visual_score": 0.418,
+    "score": 0.411
+  },
+  {
+    "start": 2890.55,
+    "end": 2926.17,
+    "text": "There's lots of places we can run to up here Mr. Cooper We don't be a lot better off all three of us. We're working together. Hey kid. He's wrong, you know I'm not boxing myself in down there Safe now it's",
+    "id": 46,
+    "text_score": 0.311,
+    "audio_score": 0.47,
+    "visual_score": 0.213,
+    "score": 0.323
+  },
+  {
+    "start": 2926.17,
+    "end": 2964.79,
+    "text": "What an uptight What about tom and judy? They want to stay up there or let him Two other people upstairs the man and the girl we heard is screaming Yeah, but I didn't know who they were and I wasn't about to Take any unnecessary chances of course not here. Is she all right? I don't know what it is",
+    "id": 47,
+    "text_score": 0.664,
+    "audio_score": 0.209,
+    "visual_score": 0.269,
+    "score": 0.494
+  },
+  {
+    "start": 2965.43,
+    "end": 2996.25,
+    "text": "She feels warm. Maybe it's shock Where'd you get the bandage? Some laundry in a basket. I tore a sheet. Let them stay upstairs Let them Too many ways those monsters can get in up there We'll see who's right We'll see when they come begging me. Let them in down here",
+    "id": 48,
+    "text_score": 0.355,
+    "audio_score": 0.233,
+    "visual_score": 0.061,
+    "score": 0.272
+  },
+  {
+    "start": 2997.61,
+    "end": 3029.06,
+    "text": "That's important, isn't it? What to be right? Everybody else to be wrong. What do you mean by that? Does anyone up there know why we're being attacked? Whatever it is. It isn't just happening here. It's some kind of mass murder. It's going on everywhere The radio said to stay inside radio Radio upstairs. I heard a news bullet. There's a radio upstairs and you boarded a thin down here. I know what I'm doing What did it say nothing nothing? They don't know anything yet",
+    "id": 49,
+    "text_score": 0.46,
+    "audio_score": 0.484,
+    "visual_score": 0.3,
+    "score": 0.433
+  },
+  {
+    "start": 3030.02,
+    "end": 3063.58,
+    "text": "There's mass murder everywhere and and people are supposed to look for a safe place to hide Take the boards off that door We are staying down here Helen Harry that radio is at least some kind of communication If the authorities know what's happening, well, they'll send people for us. So they tell us what to do How are we going to know what's going on if we lock ourselves in this dungeon? We may not enjoy living together",
+    "id": 50,
+    "text_score": 0.353,
+    "audio_score": 0.354,
+    "visual_score": 0.231,
+    "score": 0.329
+  },
+  {
+    "start": 3065.35,
+    "end": 3101.26,
+    "text": "But dying together isn't going to solve anything Those people aren't our enemies Mrs. Cooper, Mrs. Cooper, they found a television set upstairs Let's go up for a few minutes Harry and I could come upstairs Okay, yeah right away. Will you do it? Look honey, nothing's going to get done with them down there and us up here",
+    "id": 51,
+    "text_score": 0.669,
+    "audio_score": 0.295,
+    "visual_score": 0.232,
+    "score": 0.507
+  },
+  {
+    "start": 3102.46,
+    "end": 3220.66,
+    "text": "Do this for me. Why don't you go upstairs now? Don't be afraid of me",
+    "id": 52,
+    "text_score": 0.43,
+    "audio_score": 0.228,
+    "visual_score": 0.15,
+    "score": 0.334
+  },
+  {
+    "start": 3222.02,
+    "end": 3257.29,
+    "text": "I'm Helen Cooper Harry's wife place is ridiculous Look at this. There's a million weak spots up here Give me one of those Her brother was killed and they talk about these windows",
+    "id": 53,
+    "text_score": 0.738,
+    "audio_score": 0.097,
+    "visual_score": 0.265,
+    "score": 0.515
+  },
+  {
+    "start": 3258.73,
+    "end": 3289.69,
+    "text": "I can't see a damn thing There could be 50 million of those things out there. That's how much good these windows are Why don't you do something to help somebody? Have it drag a couple of those chairs together There's a socket over here Are you better watch this and try to understand what's going on?",
+    "id": 54,
+    "text_score": 0.159,
+    "audio_score": 0.586,
+    "visual_score": 0.339,
+    "score": 0.28
+  },
+  {
+    "start": 3293.59,
+    "end": 3323.62,
+    "text": "Is there anything I can do? I don't want to hear any more from you, mister. If you stay up here you take orders from me And that includes leaving the girl alone. It's on. It's on. There's no sound Reports incredible as they seem Are not the results of mass hysteria mass hysteria. What do they think we're imagining all this shut up Get all parts of history The wave of murder which is sweeping the eastern third of the nation is being committed by creatures",
+    "id": 55,
+    "text_score": 0.441,
+    "audio_score": 0.625,
+    "visual_score": 0.305,
+    "score": 0.451
+  },
+  {
+    "start": 3323.86,
+    "end": 3356.04,
+    "text": "Who feast upon the flesh of their victims? First eyewitness accounts of this grisly development came from people who were understandably frightened and almost incoherent Officials and newsmen at first discounted those eyewitness descriptions as being beyond belief However, the reports persisted Medical examinations of some of the victims bore out the fact that they had been partially devoured I think we have some late words are just arriving and I'll interrupt to bring this to you",
+    "id": 56,
+    "text_score": 0.703,
+    "audio_score": 0.026,
+    "visual_score": 0.097,
+    "score": 0.447
+  },
+  {
+    "start": 3357.96,
+    "end": 3388.04,
+    "text": "This is the latest disclosure in a report from national civil defense headquarters in washington It has been established that persons who have recently died Have been returning to life and committing acts of murder A widespread investigation of reports from funeral homes morgues and hospitals has concluded that the unburied dead Are coming back to life and seeking human victims It's hard for us here to believe what we're reporting to you, but it does seem to be a fact",
+    "id": 57,
+    "text_score": 0.757,
+    "audio_score": 0.159,
+    "visual_score": 0.155,
+    "score": 0.517
+  },
+  {
+    "start": 3390.04,
+    "end": 3420.84,
+    "text": "When this emergency first began radio and television was advising people to stay inside behind locked doors for safety Well, that situation has now changed and we're able to report a definite course of action for you Civil defense machinery has been organized to provide rescue stations with food Shelter medical treatment and protection by armed national guardsmen Stay tuned to the broadcasting stations in your local area for this list of rescue stations This list will be repeated throughout our news coverage",
+    "id": 58,
+    "text_score": 0.55,
+    "audio_score": 0.136,
+    "visual_score": 0.0,
+    "score": 0.357
+  },
+  {
+    "start": 3421.24,
+    "end": 3458.04,
+    "text": "Look for the name of the rescue station nearest you and make your way to that location as soon as possible So we have that truck we can get some gas we can get out of here. There's a pump out by the shed I know that's why I pulled in here, but it's a lot of emergency meeting called this afternoon by the president Since convening this conference of the presidential cabinet the fbi the joint chiefs of staff the cia has not produced any public information Why are space experts being consulted about an earthbound emergency? So far all the betting on the answer to that question centers on the recent explorer satellite shot to venus",
+    "id": 59,
+    "text_score": 0.723,
+    "audio_score": 0.393,
+    "visual_score": 0.266,
+    "score": 0.566
+  },
+  {
+    "start": 3458.44,
+    "end": 3493.08,
+    "text": "That satellite you'll recall started back to earth, but never got here That's the space vehicle which orbited venus and then perp was purposely destroyed by nasa when scientists discovered It was carrying a mysterious high-level radiation with it Could that radiation be somehow responsible for the wholesale murders? We're now suffering Newsman don quinn in washington has posed those questions. Obviously our best move is to try to get out of here How are you going to get over to that pump look? You're coming from a meeting regarding the explosion of the venus prob is that right?",
+    "id": 60,
+    "text_score": 0.332,
+    "audio_score": 0.239,
+    "visual_score": 0.197,
+    "score": 0.287
+  },
+  {
+    "start": 3494.04,
+    "end": 3526.92,
+    "text": "Yes. Yes. That was the subject of the meeting. Do you feel there is a connection between this and the phenomenon? There's a definite connection a definite connection Otherwise you feel that the radiation on the venus probe is enough to call these caused these mutations There was a very high degree of radiation just a minute. Uh, I'm not sure that that's certain at all. I don't think that has been Reputable that we have at this time The radiation is not the cause of the mutation. I can't speak for the entire military at this time gentlemen I must disagree with these gentlemen presently until we uh until this is irrefutably proved",
+    "id": 61,
+    "text_score": 0.266,
+    "audio_score": 0.141,
+    "visual_score": 0.404,
+    "score": 0.268
+  },
+  {
+    "start": 3527.64,
+    "end": 3559.83,
+    "text": "Everything is being done that can be done. We'll have to hurry for our next meeting And professor you feel that there is a definite connection between the definite connection as far as dr. Keller and myself Doctor, please. I I thought we decided that is not proved Was it was the satellite when the satellite was exploded unusual amount of radiation enough to cause mutation under certain circumstances Could have happened to have a bearing on it It does seem to have a bearing Will will there be a will there be a reply for this for the later? Yes, there will be a reply. Yes, later this afternoon",
+    "id": 62,
+    "text_score": 0.309,
+    "audio_score": 0.285,
+    "visual_score": 0.344,
+    "score": 0.311
+  },
+  {
+    "start": 3562.79,
+    "end": 3596.23,
+    "text": "There will be a there will be a report this afternoon, perhaps there will be a report later We have everything possible to solve the problem You know, we have to try to get out of here. He said the rescue stations and doctors and medical supplies If we could get Karen there we could get help for One of the world's foremost authorities on space science and technology I saw a sign that said willard. It's only about 17 miles from here You know this area. Are you from around here? Judy and I are both from around here We were on our way up to the lake to go swimming and Judy had a radio and we heard the first reports about this",
+    "id": 63,
+    "text_score": 0.488,
+    "audio_score": 0.651,
+    "visual_score": 0.258,
+    "score": 0.475
+  },
+  {
+    "start": 3596.71,
+    "end": 3628.23,
+    "text": "So we knew the old house was here and we came in and found the lady upstairs dead Then these other people came we went down into the basement and put a bar across the door and it is pretty strong How could we possibly get away from here? We've got a sick child Two women one woman out of her head three men and the place is surrounded with these things Dr. Grimes your entire staff I know has been working very hard to find some solution to these things that are happening Do you have any answers at this time?",
+    "id": 64,
+    "text_score": 0.465,
+    "audio_score": 0.592,
+    "visual_score": 0.131,
+    "score": 0.423
+  },
+  {
+    "start": 3628.23,
+    "end": 3659.34,
+    "text": "Yes, we have some answers But first let me stress the importance of seeking medical attention for anyone who's been injured in any way We don't know yet. Uh, what complications might result from such injuries. How bad has your kid been hurt? Now, how about the basic? Look you go down there and tell Isn't it Judy? Yeah, you tell Judy to come up here and you stay with the kid. All right Venus probe In the cold room at the university",
+    "id": 65,
+    "text_score": 0.217,
+    "audio_score": 0.582,
+    "visual_score": 0.238,
+    "score": 0.294
+  },
+  {
+    "start": 3659.74,
+    "end": 3694.17,
+    "text": "We had a cadaver cadaver from which all four limbs had been amputated Sometime early this morning it opened his eyes and began to move its trunk. It was dead But it opened his eyes and tried to move They watch upstairs Did she ask for me? She had to do anything I don't understand Baby It's mommy I heard I'll come back down as soon as I find out what they want",
+    "id": 66,
+    "text_score": 0.328,
+    "audio_score": 0.083,
+    "visual_score": 0.159,
+    "score": 0.245
+  },
+  {
+    "start": 3695.53,
+    "end": 3727.53,
+    "text": "Thank you, Judy The body should be disposed of at once preferably by cremation Well, how long after death then does the body become reactivated? It's only a matter of minutes Minutes well, that doesn't give people time to make any arrangement. Oh, you're right It doesn't give them time to make funeral arrangements The bodies must be carried to the street and and and burn They must be burned immediately soak them with gasoline and burn them The bereave will have to pour go the dubious comforts that a funeral service will give",
+    "id": 67,
+    "text_score": 0.41,
+    "audio_score": 0.144,
+    "visual_score": 0.052,
+    "score": 0.285
+  },
+  {
+    "start": 3728.17,
+    "end": 3760.49,
+    "text": "Uh, they're just dead flesh and dangerous I see you gotta need to find some bedspreads or sheets to tear up in the small streets. Okay Is there a fruit seller here? Yes We need some bottles or jars to make bottle tough cocktails to hold them up while we try to escape Hey, there's a big can of kerosene down there. I'll see what I can find I'll look for the bottles There's a big key ring down there. There may be a key to the gas pump on it. I'll check We can toss the cocktails from a window upstairs Meantime a couple of bus can go out and try to get the gas and come back for the rest of the people",
+    "id": 68,
+    "text_score": 0.341,
+    "audio_score": 0.773,
+    "visual_score": 0.267,
+    "score": 0.413
+  },
+  {
+    "start": 3760.73,
+    "end": 3802.49,
+    "text": "But that'll leave a door open someplace. Yeah, that's right. It better be this door It's closer to the truck Before we go, I'll put some supplies behind the cellar door while we're gone The rest of you can hold up in there I found some fruit jars in the cellar and there's a key on here that's labeled for the gas pump out back I'm not really that used to the truck. I found it abandoned I can handle the truck. No sweat You're it then You and I'll go behind the cellar door and go upstairs and toss the cocktails from a window",
+    "id": 69,
+    "text_score": 0.559,
+    "audio_score": 1.0,
+    "visual_score": 0.436,
+    "score": 0.623
+  },
+  {
+    "start": 3803.53,
+    "end": 3844.1,
+    "text": "Tom you and I will have to onboard this door After you toss the cocktails you also back down here and lock this door It's no good to board that because we'll have to get back in quickly after we get the gas and get back into the house Then we'll worry about getting everybody into the truck Unless the movie You always have a smile for me",
+    "id": 70,
+    "text_score": 0.413,
+    "audio_score": 0.83,
+    "visual_score": 0.412,
+    "score": 0.496
+  },
+  {
+    "start": 3844.34,
+    "end": 3882.36,
+    "text": "How can you smile like that all the time? How many we have done? Well, honey, we got to move Tom are you sure about the phone? The phone is dead out. All you get is a recorded message If I could only call the folks they're going to be so worried about us Everything will be all right. As soon as we get to Willard, we'll call them. They might even be there I know",
+    "id": 71,
+    "text_score": 0.268,
+    "audio_score": 0.377,
+    "visual_score": 0.336,
+    "score": 0.303
+  },
+  {
+    "start": 3882.36,
+    "end": 3914.42,
+    "text": "Are you sure we're doing the right thing Tom? What about getting out of here? Yeah Well, the television said that's the right thing to do. We've got to get to a rescue station I don't know. Come on, honey. You're starting to sound like mr. Cooper now But why do you have to go out there? Look, I know how to handle that truck and I can handle the pump Ben doesn't know anything about that stuff But we're safe in here for how long honey. We're safe now But there's going to be more and more of those things. I know I know all that",
+    "id": 72,
+    "text_score": 0.71,
+    "audio_score": 0.717,
+    "visual_score": 0.397,
+    "score": 0.649
+  },
+  {
+    "start": 3914.98,
+    "end": 3948.26,
+    "text": "Called it was for us to convince you that it was right to leave Remember remember we had to go to Willard then This isn't a passing thing, honey It's not like just a wind passing through We've got to do something in the past I just don't want you to go out there. That's all",
+    "id": 73,
+    "text_score": 0.093,
+    "audio_score": 0.642,
+    "visual_score": 0.584,
+    "score": 0.301
+  },
+  {
+    "start": 3949.22,
+    "end": 3993.18,
+    "text": "Hey, where's that big smile for me? You sit home, aren't you? Wake up work to do And you Yeah, we have to go downstairs now Barbara. She's right. You have to go downstairs now just for a little while until we get back",
+    "id": 74,
+    "text_score": 0.29,
+    "audio_score": 0.682,
+    "visual_score": 0.266,
+    "score": 0.364
+  },
+  {
+    "start": 3994.14,
+    "end": 4525.91,
+    "text": "Do we can all leave? Oh like to leave. Yes Yeah There's to be another broadcast at three o'clock only 10 more minutes",
+    "id": 75,
+    "text_score": 0.182,
+    "audio_score": 0.657,
+    "visual_score": 0.599,
+    "score": 0.36
+  },
+  {
+    "start": 4527.19,
+    "end": 4560.65,
+    "text": "We don't have very long to wait We can leave or we better leave soon It's 10 minutes to three You know anything about this area at all? I mean is Willard the nearest town? Just try and get to a motel before dark",
+    "id": 76,
+    "text_score": 0.273,
+    "audio_score": 0.738,
+    "visual_score": 0.077,
+    "score": 0.327
+  },
+  {
+    "start": 4561.85,
+    "end": 4593.14,
+    "text": "You say those things turned your car over you think we can get it back on his wheels and drive it. Where is it? Seems like it was pretty far away Seems like we ran Forget it. It's at least a mile Johnny has the keys You're gonna carry that child a mile through that army of things out there. I can carry the kid What's wrong without you get hurt? One of those things grabbed her bit her on the arm What's wrong?",
+    "id": 77,
+    "text_score": 0.344,
+    "audio_score": 0.681,
+    "visual_score": 0.31,
+    "score": 0.405
+  },
+  {
+    "start": 4593.14,
+    "end": 4647.34,
+    "text": "Who knows what kind of disease those things carry? Is she conscious barely She can't walk. She's too weak. Let's try to get to the car. You're gonna turn it over by yourself You have a car where where is it? You won't be able to start it. Yeah. Yeah, I know but where is it? Shared closely by scientists at all the radiation detection stations",
+    "id": 78,
+    "text_score": 0.326,
+    "audio_score": 0.429,
+    "visual_score": 0.512,
+    "score": 0.384
+  },
+  {
+    "start": 4648.14,
+    "end": 4679.34,
+    "text": "At this hour they report the level of the mysterious radiation continues to increase steadily So long as this situation remains government spokesman warned that dead bodies will continue to be transformed Into the flesh-eating ghouls all persons who die during this crisis From whatever cause will come back to life to seek human victims unless their bodies are first disposed of by cremation Our news cameras have just returned from covering such a search and destroy operation against the ghouls",
+    "id": 79,
+    "text_score": 1.0,
+    "audio_score": 0.0,
+    "visual_score": 0.209,
+    "score": 0.642
+  },
+  {
+    "start": 4679.74,
+    "end": 4711.74,
+    "text": "This one conducted by sheriff connan mclellan in butler county, pennsylvania So now let's go to that film report All law enforcement agencies and the military have been organized to search out and destroy the marauding ghouls The survival command center at the pentagon has disclosed that a ghoul can be killed By a shot in the head or a heavy blow to the skull Officials are quoted as explaining that since the brain of a ghoul has been activated by the radiation The plan is kill the brain",
+    "id": 80,
+    "text_score": 0.483,
+    "audio_score": 0.131,
+    "visual_score": 0.398,
+    "score": 0.396
+  },
+  {
+    "start": 4712.3,
+    "end": 4744.06,
+    "text": "And you kill the ghoul Why do you think i'm a supply rag and cuss? Uh, no, we're all right Hey, cast put that thing all the way in the fire. We don't want to get in up again Chief chief mclellan, how's everything going? Oh things aren't going too bad men are taking it pretty good You want to get on the other side of the road over there? Chief, do you think we'll be able to defeat these things? Well, we killed 19 of them today right in this area. Those last three we caught trying to claw their way into an abandoned shed They must have thought somebody was in there their window",
+    "id": 81,
+    "text_score": 0.515,
+    "audio_score": 0.614,
+    "visual_score": 0.471,
+    "score": 0.526
+  },
+  {
+    "start": 4744.62,
+    "end": 4778.06,
+    "text": "We heard them making all kind of noise. We came over and beat them off blasted them down Yeah, okay Chief, uh, if I were surrounded by six or any of these things would I stand a chance with them? Well, there's no problem if you had a gun shoot them in the head That's a sure way to kill them if you don't get yourself a club or a torch beat them or burn them They go up pretty easy Well chief mclellan, how long do you think it will take you until you get the situation under control? Well, that's pretty hard to say. We don't know how many of them there are. We know when we find them we can kill them Are they slow moving chief? Yeah, they're dead. They're",
+    "id": 82,
+    "text_score": 0.447,
+    "audio_score": 0.43,
+    "visual_score": 0.364,
+    "score": 0.427
+  },
+  {
+    "start": 4778.78,
+    "end": 4809.74,
+    "text": "All messed up. Well, uh in time. Would you say you ought to be able to wrap this up in 24 hours? well We don't really know we know we'll be into it most of the night probably into the early morning We're working our way toward willard and we'll team up with a national guard over there And then we'll be able to give a more definite view. Thank you very much chief mclellan. This is bill cardill wiic tv 11 news Thank you bill for that report Official spokesman declined to speculate just how long it may take to kill off all the flesh eaters",
+    "id": 83,
+    "text_score": 0.377,
+    "audio_score": 0.323,
+    "visual_score": 0.257,
+    "score": 0.342
+  },
+  {
+    "start": 4810.3,
+    "end": 4844.09,
+    "text": "So long as the heavy Is the views boxing the seller? I don't know. I it isn't the views The power lines are down. I have to get that gun Haven't you had enough? Two people are dead already on account of that guy. Take a look out that window",
+    "id": 84,
+    "text_score": 0.251,
+    "audio_score": 0.328,
+    "visual_score": 0.262,
+    "score": 0.269
+  },
+  {
+    "start": 4845.05,
+    "end": 5407.91,
+    "text": "Dog, there's a house over here behind those trees. We want to go check it out",
+    "id": 85,
+    "text_score": 0.218,
+    "audio_score": 0.474,
+    "visual_score": 0.509,
+    "score": 0.327
+  },
+  {
+    "start": 5408.55,
+    "end": 5497.8,
+    "text": "Here bill. Yeah, chief. We're going to stay with it till we meet up with a national guard Where'd you get the coffee? One of the volunteers you're doing all the work you take it. Thank you We should be wrapped up here about three or four more hours. We'll probably get into willard then I guess you can go over there and meet the national guard Nick you and the rest of these men want to come with me? Well, don't look check any office. See what's happening. All right, steve. Tell them we're going to stay with it and uh Everything appears to be under control Check out the house",
+    "id": 86,
+    "text_score": 0.214,
+    "audio_score": 0.643,
+    "visual_score": 0.281,
+    "score": 0.313
+  },
+  {
+    "start": 5497.8,
+    "end": 5543.13,
+    "text": "Somebody had to cook out here vince. Yeah, I sure looks like it Get up here",
+    "id": 87,
+    "text_score": 0.096,
+    "audio_score": 0.406,
+    "visual_score": 0.262,
+    "score": 0.191
+  },
+  {
+    "start": 5543.53,
+    "end": 5576.98,
+    "text": "Nick don't eat steve. You want to get out in that field and build me a pond fire You drag that out of here and throw it on the fire nothing down here. All right. Go ahead down and give him a hand Let's go check out the house. There's something in there. I heard a noise All right, man. Hit him in the head right between the eyes",
+    "id": 88,
+    "text_score": 0.351,
+    "audio_score": 0.231,
+    "visual_score": 0.44,
+    "score": 0.345
+  },
+  {
+    "start": 5581.05,
+    "end": 5585.69,
+    "text": "Good shot. Okay. He's dead. Let's go get him. That's another one for the fire",
+    "id": 89,
+    "text_score": 0.494,
+    "audio_score": 0.54,
+    "visual_score": 0.464,
+    "score": 0.497
+  }
+]

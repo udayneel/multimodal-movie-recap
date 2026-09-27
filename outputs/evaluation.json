@@ -1,0 +1,15 @@
+{
+  "bleu": {
+    "BLEU-1": 0.2646,
+    "BLEU-2": 0.1566,
+    "BLEU-3": 0.0878,
+    "BLEU-4": 0.0553
+  },
+  "rouge": {
+    "rouge1": 0.4354,
+    "rouge2": 0.126,
+    "rougeL": 0.2608
+  },
+  "candidate_words": 299,
+  "reference_words": 549
+}
