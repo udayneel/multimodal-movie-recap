@@ -1,0 +1,14 @@
+yt-dlp>=2025.1.1
+faster-whisper>=1.0.0
+opencv-python-headless>=4.8
+numpy
+scipy
+scikit-learn
+sentence-transformers>=2.7
+google-genai>=1.0
+transformers>=4.40
+torch
+nltk
+rouge-score
+matplotlib
+pytest

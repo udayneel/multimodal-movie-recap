@@ -1,0 +1,11 @@
+data/*.mp4
+data/*.wav
+data/*.webm
+data/*.m4a
+outputs/clips/
+outputs/*.mp4
+tests/_tmp/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/cookies.txt
